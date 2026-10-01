@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I'm Hamish. I'm a Research Economist at the Reserve Bank of Australia (RBA). I currently work with DSGE models and policy frameworks. I previously worked on the RBA's inflation desk, and in the RBA's *Data Science Hub*. I graduated from the University of Sydney with Physics and Economics (Honours) degree, with First Class Honours and the University Medal.
+I'm Hamish. I'm a Research Economist at the Reserve Bank of Australia (RBA). I currently work with DSGE models and policy frameworks. I previously worked on the RBA's inflation desk, and in the RBA's *Data Science Hub*. I graduated from the University of Sydney with a Physics and Economics (Honours) degree, with First Class Honours and the University Medal.
 
 http://hamishsullivan.com
 
