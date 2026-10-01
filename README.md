@@ -1,9 +1,9 @@
 ### Hi there! 👋
 I'm Hamish. I'm a Research Economist at the Reserve Bank of Australia (RBA). I currently work with DSGE models and policy frameworks. I previously worked on the RBA's inflation desk, and in the RBA's *Data Science Hub*. I graduated from the University of Sydney with a Physics and Economics (Honours) degree, with First Class Honours and the University Medal.
 
-http://hamishsullivan.com
-
 https://www.rba.gov.au/research/our-researchers/hamish-sullivan.html
+
+http://hamishsullivan.com
 
 <!--
 **hsull/hsull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
